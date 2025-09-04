@@ -46,47 +46,6 @@ const ActivitiesSection: React.FC<ActivitiesSectionProps> = ({ className }) => {
         },
       ],
     },
-
-    {
-      id: "quark-workbench",
-      title: "Quark Workbench",
-      description:
-        "Herramienta interactiva para explorar la física de partículas y los quarks.",
-      icon: <Users className="w-6 h-6" />,
-      type: "outdoor",
-      links: [
-        {
-          label: "Notas para Tutores",
-          url: "https://quarknet.org/sites/default/files/content/portfolio/file/2024-01/quarkworkbench2d3d_teacher_19sep2019.pdf",
-        },
-        {
-          label: "Actividad Estudiantes",
-          url: "https://quarknet.org/data-portfolio/activity/quark-workbench",
-        },
-        {
-          label: "Notas del Estudiante",
-          url: "https://quarknet.org/sites/default/files/content/portfolio/file/2024-01/quarkworkbench2d3d_student_19sep2019.pdf",
-        },
-        {
-          label: "Claves para el Estudiante",
-          url: "https://quarknet.org/sites/default/files/content/portfolio/file/2024-01/quarkworkbench2d3d_answer_10aug18.pdf",
-        },
-      ],
-    },
-    {
-      id: "top-quark",
-      title: "Calcular la Masa del Quark Top",
-      description:
-        "Actividad para calcular la masa del quark top usando datos reales del CERN.",
-      icon: <Database className="w-6 h-6" />,
-      type: "outdoor",
-      links: [
-        {
-          label: "Notas para Tutores",
-          url: "https://quarknet.org/sites/default/files/content/portfolio/file/2024-01/Calcular%20la%20masa%20del%20quark%20top%20notas%20para%20el%20maestro%20version%20espanol.pdf",
-        },
-      ],
-    },
     {
       id: "higgs",
       title: "Descubrimiento del Bosón de Higgs",
