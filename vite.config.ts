@@ -5,7 +5,7 @@ import path from 'path'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/workshop-cms-2025/',
+  base: '/workshop-webpage/',
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
