@@ -102,7 +102,7 @@ const ActivitiesSection: React.FC<ActivitiesSectionProps> = ({ className }) => {
         },
         {
           label: "Presentación 2",
-          url: "https://www.overleaf.com/6799628194dbkzvjzwjfcc#8de1df",
+          url: "https://epnecuador-my.sharepoint.com/:b:/g/personal/ariel_navarrete_epn_edu_ec/EbpDH1wltZhIo5bwziuDx8kBdvR3xOIlXt3GW0S7mA2XCA?e=CSzACQ",
         },
       ],
     },
