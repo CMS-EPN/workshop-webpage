@@ -95,7 +95,16 @@ const ActivitiesSection: React.FC<ActivitiesSectionProps> = ({ className }) => {
         "Presentación de los avances en la colaboración entre EPN y el proyecto DPOA.",
       icon: <Users className="w-6 h-6" />,
       type: "presentation",
-      links: [{ label: "Ver Presentación", url: "#" }],
+      links: [
+        {
+          label: "Presentacion 1",
+          url: "https://epnecuador-my.sharepoint.com/:b:/g/personal/ariel_navarrete_epn_edu_ec/ETWFnPGjJzJAm7erzaDlmewBP4TkvZYxbGJFsGq0pEzWlg?e=Sdpm4C",
+        },
+        {
+          label: "Presentación 2",
+          url: "https://www.overleaf.com/6799628194dbkzvjzwjfcc#8de1df",
+        },
+      ],
     },
   ];
 
